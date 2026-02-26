@@ -7,7 +7,7 @@ function Heading( ) {
 <li>home</li>
 
 <li>main</li>
-<li>pagecl</li>
+<li>page</li>
     </ul>
     
   </nav>
